@@ -1,5 +1,5 @@
 # home_automation_using_camera
-By this project we can do home automation using camera to save cost of sensors. In this project we will check that is there any person in room(area where camera is there) or not, if there is someone then lights and fan will get on else it will get off.
+By this project we can do home automation using camera to save cost of sensors. In this project we will check that is there any person in room(area where camera is there) or not, if there is someone then lights and fan will get on or else it will get off.
 
 Hardware requirements:
 1. Arduino.
