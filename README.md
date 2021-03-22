@@ -1,12 +1,12 @@
 <h1 align="center">Home Automation Using Camera</h1>
 <div align="center">
   
-<a href="https://github.com/Jimmy5467/home_automation_using_camera/stargazers"><img src="https://img.shields.io/github/stars/Track-Down/track-down?style=flat"/></a> 
-<a href="https://github.com/Jimmy5467/home_automation_using_camera/network/members"><img src="https://img.shields.io/github/forks/Track-Down/track-down?style=flat"/></a> 
-<a href="https://github.com/Jimmy5467/home_automation_using_camera/pullss"><img src="https://img.shields.io/github/issues-pr/Track-Down/track-down?style=flat?color=yellow"/></a> 
-<a href="https://github.com/Jimmy5467/home_automation_using_camera/issues"><img src="https://img.shields.io/github/issues/Track-Down/track-down?style=flat"/></a> 
-<a href="https://github.com/Jimmy5467/home_automation_using_camera/graphs/contributors"><img src="https://img.shields.io/github/contributors/Track-Down/track-down?color=orange"/></a> 
-<a href="https://github.com/Jimmy5467/home_automation_using_camera/blob/master/LICENSE"><img src="https://img.shields.io/github/license/Track-Down/track-down?color=1abc9c"/></a> 
+<a href="https://github.com/Jimmy5467/home_automation_using_camera/stargazers"><img src="https://img.shields.io/github/stars/Jimmy5467/home_automation_using_camera?style=flat"/></a> 
+<a href="https://github.com/Jimmy5467/home_automation_using_camera/network/members"><img src="https://img.shields.io/github/forks/Jimmy5467/home_automation_using_camera?style=flat"/></a> 
+<a href="https://github.com/Jimmy5467/home_automation_using_camera/pullss"><img src="https://img.shields.io/github/issues-pr/Jimmy5467/home_automation_using_camera?style=flat?color=yellow"/></a> 
+<a href="https://github.com/Jimmy5467/home_automation_using_camera/issues"><img src="https://img.shields.io/github/issues/Jimmy5467/home_automation_using_camera?style=flat"/></a> 
+<a href="https://github.com/Jimmy5467/home_automation_using_camera/graphs/contributors"><img src="https://img.shields.io/github/contributors/Jimmy5467/home_automation_using_camera?color=orange"/></a> 
+<a href="https://github.com/Jimmy5467/home_automation_using_camera/blob/master/LICENSE"><img src="https://img.shields.io/github/license/Jimmy5467/home_automation_using_camera?color=1abc9c"/></a> 
 <br>
 ![](https://img.shields.io/badge/Star-If_Liked-%23FF0000.svg?&style=flat&logoColor=white&color=white)
 ![](https://img.shields.io/badge/Fork-If_you_found_interesting-%23FF0000.svg?&style=flat&logoColor=white&color=white)<br>
