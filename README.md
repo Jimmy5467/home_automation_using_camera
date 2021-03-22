@@ -42,7 +42,7 @@ Demo:
 
 ![](https://github.com/Jimmy5467/home_automation_using_camera/blob/master/gif.gif)
 
-# Facing any issues?
+Facing any issues?
 
 Feel free to [open an issue](https://github.com/Jimmy5467/home_automation_using_camera/issues/new?assignees=&labels=Query&title=Query). We are glad to help you. And is you have solution for that issue I will allocate to you. ❤️ 
 
