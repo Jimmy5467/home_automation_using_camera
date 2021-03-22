@@ -1,4 +1,17 @@
-# home_automation_using_camera
+<h1 align="center">Home Automation Using Camera</h1>
+<div align="center">
+  
+<a href="https://github.com/Jimmy5467/home_automation_using_camera/stargazers"><img src="https://img.shields.io/github/stars/Track-Down/track-down?style=flat"/></a> 
+<a href="https://github.com/Jimmy5467/home_automation_using_camera/network/members"><img src="https://img.shields.io/github/forks/Track-Down/track-down?style=flat"/></a> 
+<a href="https://github.com/Jimmy5467/home_automation_using_camera/pullss"><img src="https://img.shields.io/github/issues-pr/Track-Down/track-down?style=flat?color=yellow"/></a> 
+<a href="https://github.com/Jimmy5467/home_automation_using_camera/issues"><img src="https://img.shields.io/github/issues/Track-Down/track-down?style=flat"/></a> 
+<a href="https://github.com/Jimmy5467/home_automation_using_camera/graphs/contributors"><img src="https://img.shields.io/github/contributors/Track-Down/track-down?color=orange"/></a> 
+<a href="https://github.com/Jimmy5467/home_automation_using_camera/blob/master/LICENSE"><img src="https://img.shields.io/github/license/Track-Down/track-down?color=1abc9c"/></a> 
+<br>
+![](https://img.shields.io/badge/Star-If_Liked-%23FF0000.svg?&style=flat&logoColor=white&color=white)
+![](https://img.shields.io/badge/Fork-If_you_found_interesting-%23FF0000.svg?&style=flat&logoColor=white&color=white)<br>
+</div>  
+
 By this project we can do home automation using camera to save cost of sensors. In this project we will check that is there any person in room(area where camera is there) or not, if there is someone then lights and fan will get on or else it will get off.
 
 Hardware requirements:
@@ -29,5 +42,10 @@ Demo:
 
 ![](https://github.com/Jimmy5467/home_automation_using_camera/blob/master/gif.gif)
 
-If you find any issue in this project, please make sure to put in your issue I will surely look into it, and if you want to solve that I will allocate that issue to you. 
+# Facing any issues?
+
+Feel free to [open an issue](https://github.com/Jimmy5467/home_automation_using_camera/issues/new?assignees=&labels=Query&title=Query). We are glad to help you. And is you have solution for that issue I will allocate to you. ❤️ 
+
 If you have any more idea related to this project then please share your idea on jimmyaghera123@gmail.com. If time permits I will surely do some work on your project.
+
+
