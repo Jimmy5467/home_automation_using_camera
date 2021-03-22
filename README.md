@@ -14,21 +14,21 @@
 
 By this project we can do home automation using camera to save cost of sensors. In this project we will check that is there any person in room(area where camera is there) or not, if there is someone then lights and fan will get on or else it will get off.
 
-Hardware requirements:
-1. Arduino.
-2. LED (If you dont want to use inbuilt LED of arduino).
-3. Small Fan (If you want to start lights as well as fan).
-4. wires as per your requirements. 
+**Hardware requirements:**
+- Arduino.
+- LED (If you dont want to use inbuilt LED of arduino).
+- Small Fan (If you want to start lights as well as fan).
+- wires as per your requirements. 
 
-Software requirements:
-1. Arduino IDE.
-2. pycharm or any prefered IDE.
+**Software requirements:**
+- Arduino IDE.
+- pycharm or any prefered IDE.
 
-As mentioned we can do person detection using 2 ways : 
-a. using caffemodel 
-b. using haarcascade
+As mentioned we can do person detection using 2 ways : <br>
+1. using caffemodel 
+2. using haarcascade
 
-After downloading this project follow the following steps(in both the methods) :
+After downloading this project follow the following steps (_in both the methods_) :
 1. run the python code and see that output is perfect or not.
 2. remove commented line of arduino code from python file.
 3. connect your Arduino.
@@ -38,11 +38,11 @@ After downloading this project follow the following steps(in both the methods) :
 7. upload your code in arduino.
 8. run the python code.
 
-Demo:
+**Demo:**
 
 ![](https://github.com/Jimmy5467/home_automation_using_camera/blob/master/gif.gif)
 
-Facing any issues?
+**Facing any issues?**
 
 Feel free to [open an issue](https://github.com/Jimmy5467/home_automation_using_camera/issues/new?assignees=&labels=Query&title=Query). We are glad to help you. And is you have solution for that issue I will allocate to you. ❤️ 
 
