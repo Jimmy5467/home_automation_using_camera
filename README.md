@@ -47,5 +47,5 @@ After downloading this project follow the following steps (_in both the methods_
 Feel free to [open an issue](https://github.com/Jimmy5467/home_automation_using_camera/issues/new?assignees=&labels=Query&title=Query). We are glad to help you. And is you have solution for that issue I will allocate to you. ❤️ 
 
 If you have any more idea related to this project then please share your idea on jimmyaghera123@gmail.com. If time permits I will surely do some work on your project.
-
+aa
 
