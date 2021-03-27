@@ -10,7 +10,7 @@
 <br>
   
   
-![](http://hits.dwyl.com/Jimmy5467/home_automation_using_camera.svg)
+[![HitCount](http://hits.dwyl.com/Jimmy5467/home_automation_using_camera.svg)](http://hits.dwyl.com/Jimmy5467/home_automation_using_camera)
 ![](https://img.shields.io/badge/Star-If_Liked-%23FF0000.svg?&style=flat-square&logoColor=white&color=white)
 ![](https://img.shields.io/badge/Fork-If_you_found_interesting-%23FF0000.svg?&style=flat-square&logoColor=white&color=white)<br>
 </div>  
