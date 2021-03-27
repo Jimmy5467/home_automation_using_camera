@@ -3,7 +3,7 @@
   
 <a href="https://github.com/Jimmy5467/home_automation_using_camera/stargazers"><img src="https://img.shields.io/github/stars/Jimmy5467/home_automation_using_camera?style=flat-square"/></a> 
 <a href="https://github.com/Jimmy5467/home_automation_using_camera/network/members"><img src="https://img.shields.io/github/forks/Jimmy5467/home_automation_using_camera?style=flat-square"/></a> 
-<a href="https://github.com/Jimmy5467/home_automation_using_camera/pullss"><img src="https://img.shields.io/github/issues-pr/Jimmy5467/home_automation_using_camera?style=flat-square?color=yellow"/></a> 
+<a href="https://github.com/Jimmy5467/home_automation_using_camera/pullss"><img src="https://img.shields.io/github/issues-pr/Jimmy5467/home_automation_using_camera?&style=flat-square"/></a> 
 <a href="https://github.com/Jimmy5467/home_automation_using_camera/issues"><img src="https://img.shields.io/github/issues/Jimmy5467/home_automation_using_camera?style=flat-square"/></a> 
 <a href="https://github.com/Jimmy5467/home_automation_using_camera/graphs/contributors"><img src="https://img.shields.io/github/contributors/Jimmy5467/home_automation_using_camera?&style=flat-square&color=orange"/></a> 
 <a href="https://github.com/Jimmy5467/home_automation_using_camera/blob/master/LICENSE"><img src="https://img.shields.io/github/license/Jimmy5467/home_automation_using_camera?&style=flat-square&color=1abc9c"/></a> 
