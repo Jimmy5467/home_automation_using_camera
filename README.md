@@ -13,7 +13,7 @@
 ![](https://img.shields.io/badge/Fork-If_you_found_interesting-%23FF0000.svg?&style=flat-square&logoColor=white&color=white)<br>
 </div>  
 
-By this project we can do home automation using camera to save cost of sensors. In this project we will check that is there any person in room(area where camera is there) or not, if there is someone then lights and fan will get on or else it will get off.
+By this project we can do home automation using camera to **save cost of sensors**. In this project we will check that is there any person in room(area where camera is there) or not, if there is someone then lights and fan will get on or else it will get off.
 
 **Hardware requirements:**
 - Arduino.
